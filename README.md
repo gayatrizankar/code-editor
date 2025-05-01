@@ -28,3 +28,12 @@ A sleek, minimal web-based code editor for writing HTML, CSS, and JavaScript wit
 
 ## 📁 Project Structure
 
+---
+
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/code-editor
+cd code-editor
+open index.html   # or just open in your browser
+
